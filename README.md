@@ -1,4 +1,4 @@
-# NuralNexus# Advanced Mobile Code Editor: Developer's Guide
+# Advanced Mobile Code Editor: Developer's Guide
 
 ## Table of Contents
 1. [Introduction](#introduction)
